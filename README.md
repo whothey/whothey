@@ -1,7 +1,6 @@
 **Hey there!** 👋
 
-📡 I am a software developer focused on backend development.<br>
-💡 Interested on JS, Go, Linux, Rust, Kubernetes.<br>
-📚 Studying C#, Kotlin and communication protocols.
+📡 Software engineer focused on backend development, but doing some full-stack stuff for a while.<br>
+💡 Interested in architecture topics, microservices, federation, Kubernetes, Terraform, oh my, the distributed world is just awesome challenging!.<br>
 
 🍄
